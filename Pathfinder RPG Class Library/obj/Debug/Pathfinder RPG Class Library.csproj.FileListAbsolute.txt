@@ -1,0 +1,5 @@
+D:\Projects\NumericalAnalysis\Pathfinder RPG Class Library\Pathfinder RPG Class Library\obj\Debug\Pathfinder RPG Class Library.csprojResolveAssemblyReference.cache
+D:\Projects\NumericalAnalysis\Pathfinder RPG Class Library\Pathfinder RPG Class Library\bin\Debug\Pathfinder RPG Class Library.dll
+D:\Projects\NumericalAnalysis\Pathfinder RPG Class Library\Pathfinder RPG Class Library\bin\Debug\Pathfinder RPG Class Library.pdb
+D:\Projects\NumericalAnalysis\Pathfinder RPG Class Library\Pathfinder RPG Class Library\obj\Debug\Pathfinder RPG Class Library.dll
+D:\Projects\NumericalAnalysis\Pathfinder RPG Class Library\Pathfinder RPG Class Library\obj\Debug\Pathfinder RPG Class Library.pdb

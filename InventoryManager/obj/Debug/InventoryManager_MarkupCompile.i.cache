@@ -1,0 +1,20 @@
+﻿InventoryManager
+
+
+winexe
+C#
+.cs
+D:\Projects\NumericalAnalysis\Pathfinder RPG Class Library\InventoryManager\obj\Debug\
+InventoryManager
+none
+false
+DEBUG;TRACE
+D:\Projects\NumericalAnalysis\Pathfinder RPG Class Library\InventoryManager\App.xaml
+62097479885
+
+14892662559
+12-1401562060
+MainWindow.xaml;UserControls\ListInventory.xaml;UserControls\ItemDetailView.xaml;UserControls\ItemGridIcon.xaml;UserControls\ItemListIcon.xaml;UserControls\ShopView.xaml;
+
+False
+
