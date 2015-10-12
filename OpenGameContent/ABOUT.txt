@@ -1,6 +1,0 @@
-﻿Section 8 of the WotC OGL states that when distributing Open Game Content, I need to declare which portions of work are OGC.
-This .NET class library is Open Game Content and contains Open Game Content from other OGC Conrtibutors.
-All OGC created by other contributors is properly listed in Section 15 of the "OGL Licence.txt" file included with this project.
-
-Note to contributors of this .NET Solution: Keep all OGC in this project. Do not use OGC in other projects. Reference this library when you need to use OGC.
-
