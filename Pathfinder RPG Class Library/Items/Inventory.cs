@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Pathfinder_RPG_Class_Library.Items
+namespace OpenGameContent_Class_Library.Items
 {
     //Should an inventory be an item? Like, I as a player could have an inventory... that contains my backpack... that contains a canteen... that contains water.
     //If an inventory is an item, should it have a Money? Like, I don't wanna forget all my cash in my bandolier and wonder where all my wealth went.

@@ -1,10 +1,10 @@
-﻿using Pathfinder_RPG_Class_Library.Dice;
+﻿using OpenGameContent_Class_Library.Dice;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Pathfinder_RPG_Class_Library.Ability_Scores
+namespace OpenGameContent_Class_Library.Ability_Scores
 {
     public class AbilityScores
     {

@@ -1,0 +1,6 @@
+﻿Section 8 of the Wizards of the Coast Open Game Licence states that when distributing Open Game Content, I need to declare which portions of work are Open Game Content.
+This .NET class library is Open Game Content and contains Open Game Content from other OGC conrtibutors. 
+All OGC sources created by other contributors is properly listed in Section 15 of the "OGL Licence.txt" file included in this project's main directory.
+Decompiled source code of this .NET class library can be found at https://github.com/ChrisGregory/Pathfinder
+
+Note to contributors of this .NET Solution: Keep all OGC in this project. Do not use OGC in other projects. Reference this library when you need to use OGC. Try to keep as much information as possible contained within plaintext files and have the library load in data from those files.

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Pathfinder_RPG_Class_Library.Items
+namespace OpenGameContent_Class_Library.Items
 {
     /// <summary>
     /// Represents a value in coins. 10cp = 1sp and so on.

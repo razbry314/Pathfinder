@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Pathfinder_RPG_Class_Library.Races
+namespace OpenGameContent_Class_Library.Races
 {
     public class RacialTrait
     {

@@ -1,11 +1,11 @@
-﻿using Pathfinder_RPG_Class_Library.Dice;
+﻿using OpenGameContent_Class_Library.Dice;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pathfinder_RPG_Class_Library.Items
+namespace OpenGameContent_Class_Library.Items
 {
     class Weapon
     {
@@ -18,7 +18,7 @@ namespace Pathfinder_RPG_Class_Library.Items
         //As some wespons have multiple damage types (like firearms), I made this a list.
         public List<DamageType> DmgTypes { get; set; }
 
-        public List<SpecialWeaponFeatures> Features { get; set; }
+        //public List<SpecialWeaponFeatures> Features { get; set; }
 
     }
 }

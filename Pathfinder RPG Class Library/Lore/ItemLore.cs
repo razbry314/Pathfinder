@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pathfinder_RPG_Class_Library.Lore
+namespace OpenGameContent_Class_Library.Lore
 {
     class ItemLore
     {

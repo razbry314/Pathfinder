@@ -1,14 +1,14 @@
-﻿using Pathfinder_RPG_Class_Library.Dice;
+﻿using OpenGameContent_Class_Library.Dice;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Pathfinder_RPG_Class_Library.Classes;
-using Pathfinder_RPG_Class_Library.Races;
-using Pathfinder_RPG_Class_Library.Skills;
+using OpenGameContent_Class_Library.Classes;
+using OpenGameContent_Class_Library.Races;
+using OpenGameContent_Class_Library.Skills;
 
-namespace Pathfinder_RPG_Class_Library
+namespace OpenGameContent_Class_Library
 {
     class CharacterClass
     {

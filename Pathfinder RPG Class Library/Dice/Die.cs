@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Pathfinder_RPG_Class_Library.Dice
+namespace OpenGameContent_Class_Library.Dice
 {
     class Die
     {
