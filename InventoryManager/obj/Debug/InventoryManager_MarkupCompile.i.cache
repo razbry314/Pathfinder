@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\Chris Gregory\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\
 InventoryManager
 none
 false
 DEBUG;TRACE
-C:\Users\Chris Gregory\Documents\GitHub\Pathfinder\InventoryManager\App.xaml
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\App.xaml
 62097479885
 
-14892662559
+14851369476
 12-1401562060
 MainWindow.xaml;UserControls\ListInventory.xaml;UserControls\ItemDetailView.xaml;UserControls\ItemGridIcon.xaml;UserControls\ItemListIcon.xaml;UserControls\ShopView.xaml;
 

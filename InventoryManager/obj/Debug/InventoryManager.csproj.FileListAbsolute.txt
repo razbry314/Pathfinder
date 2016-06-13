@@ -21,3 +21,26 @@ D:\Projects\NumericalAnalysis\Pathfinder RPG Class Library\InventoryManager\obj\
 D:\Projects\NumericalAnalysis\Pathfinder RPG Class Library\InventoryManager\obj\Debug\InventoryManager.csproj.GenerateResource.Cache
 D:\Projects\NumericalAnalysis\Pathfinder RPG Class Library\InventoryManager\obj\Debug\InventoryManager.exe
 D:\Projects\NumericalAnalysis\Pathfinder RPG Class Library\InventoryManager\obj\Debug\InventoryManager.pdb
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\bin\Debug\InventoryManager.exe.config
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\InventoryManager.exe
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\InventoryManager.pdb
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\bin\Debug\InventoryManager.exe
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\bin\Debug\InventoryManager.pdb
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\InventoryManager.csprojResolveAssemblyReference.cache
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\MainWindow.baml
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\UserControls\ListInventory.baml
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\UserControls\ItemDetailView.baml
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\UserControls\ItemGridIcon.baml
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\UserControls\ItemListIcon.baml
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\UserControls\ShopView.baml
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\MainWindow.g.cs
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\UserControls\ListInventory.g.cs
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\UserControls\ItemDetailView.g.cs
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\UserControls\ItemGridIcon.g.cs
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\UserControls\ItemListIcon.g.cs
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\UserControls\ShopView.g.cs
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\App.g.cs
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\InventoryManager_MarkupCompile.cache
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\InventoryManager.g.resources
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\InventoryManager.Properties.Resources.resources
+C:\Users\rzurek\Documents\GitHub\Pathfinder\InventoryManager\obj\Debug\InventoryManager.csproj.GenerateResource.Cache

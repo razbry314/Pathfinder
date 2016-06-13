@@ -1,0 +1,28 @@
+The main purpose of this project is to create a web app/site that will
+allow newer players to make basic characters.
+
+The ideal outcome is to have a tool that will allow you the make 
+a fully functional character in 25 to 30 minutes.
+(Mechanical elements done ,role play elements can be filled out later)
+
+Main Page: introduce the site
+	"Simple Character Creator is made for new players or those who 
+	want a streamlined creation tool."
+	options to create account/sign in.
+	some examples for basic characters?
+Overview: process overview
+	"There are nine steps to creating a Pathfinder character.
+	This will break down each of them, and give you a better
+	understanding of how they work."
+Step One: Choose Class
+	stick to the basic pathfinder classes
+		maybe do the core classes (inquisitor, gunslinger and stuff)
+
+Step Two: choose Ability Scores.
+	pathfinder repo already has 4d6 roll set up
+		pure RNG
+		possible to be over/underpowered
+	work on point buy system?
+		easiest way would be a 20 point total
+		explain point system, offer recommendations.
+
